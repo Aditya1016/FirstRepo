@@ -1,4 +1,4 @@
 # FirstRepo
 My first Git Repo
 <br>
-Author- Aditya Sinha
+Author- Aditya Sinha (@Aditya1016)
